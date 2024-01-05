@@ -1,4 +1,4 @@
-# Scrtach Clone 
+# Scratch Clone 
 
 ## Features
 
