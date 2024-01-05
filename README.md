@@ -1,6 +1,4 @@
-# One Level Nested Comments
-
-
+# Scrtach Clone 
 
 ## Features
 
@@ -18,8 +16,7 @@
 
 ## Deployment
 
-This web application has been deployed and hosted on **Netlify** having domain name 'yet to be deployed'
-
+This web application has been deployed and hosted on **Netlify** having domain name https://scratch-clone-juspay-assignment.netlify.app/
 
 ## Run Locally
 
