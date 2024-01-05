@@ -64,7 +64,7 @@ const SpeakMessageWithTimer = ({ character, componentId }) => {
           className="flex flex-row flex-wrap text-center bg-yellow-400 text-black px-2 py-1 my-2 text-sm cursor-pointer"
           onClick={() => displayMessage()}
         >
-          {`Say ${state.timerMessage}`}
+          {`Speak ${state.timerMessage}`}
         </div>
       </div>
     </Paper>

@@ -51,7 +51,7 @@ const ThinkComponent = ({ character, componentId }) => {
           className="flex text-center flex-row flex-wrap bg-yellow-400 text-black px-2 py-1 my-2 text-sm cursor-pointer"
           onClick={() => displayMessage()}
         >
-          {`Ponder ${state.message}`}
+          {`Think ${state.message}`}
         </div>
       </div>
     </Paper>
